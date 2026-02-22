@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\bin\Debug\net10.0\LogAnalyzer.exe
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\bin\Debug\net10.0\LogAnalyzer.deps.json
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\bin\Debug\net10.0\LogAnalyzer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\bin\Debug\net10.0\LogAnalyzer.dll
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\bin\Debug\net10.0\LogAnalyzer.pdb
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.dll
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\refint\LogAnalyzer.dll
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.pdb
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\LogAnalyzer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C# projects\LogAnalyzer\obj\Debug\net10.0\ref\LogAnalyzer.dll

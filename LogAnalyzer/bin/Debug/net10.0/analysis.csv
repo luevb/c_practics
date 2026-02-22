@@ -1,0 +1,5 @@
+﻿IP;EventType;Count
+10.0.0.20;error;257
+10.0.0.20;login;255
+10.0.0.20;logout;274
+10.0.0.20;purchase;254
